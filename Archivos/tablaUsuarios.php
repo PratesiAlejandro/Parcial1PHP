@@ -1,0 +1,2 @@
+ <table border=1><th> Nombre </th><th> Edad </th><th> Correo </th><th> Clave </th><th> Foto </th><tr> <td> juan</td> <td> 33</td><td>co</td><td>2345</td><td> <img width=50px height=50px style=border-radius:50% src=Fotos/juan_33_co_2345.jpg
+></img></td></tr>  </table>

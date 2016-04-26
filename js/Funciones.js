@@ -1,0 +1,4 @@
+Function Validar()
+{
+	alert("OK");
+}
